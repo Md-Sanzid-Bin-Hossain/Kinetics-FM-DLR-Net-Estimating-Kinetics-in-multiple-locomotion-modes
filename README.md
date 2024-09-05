@@ -7,4 +7,24 @@ This repository contains the code for **Kinetics-FM-DLR-Ensemble-Net**, a novel 
 - **Versatility Across Walking Conditions**: Accurately estimates joint moments and GRFs in a variety of walking conditions found in daily life.
 - **State-of-the-Art Performance**: Significantly outperforms existing deep learning models for kinetics estimation.
 
-This is the first deep learning model to predict both joint moments and GRFs in multiple walking conditions using IMU sensors, providing a practical solution for biomechanical analysis outside the laboratory.
+This is the first deep-learning model to predict both joint moments and GRFs in multiple walking conditions using IMU sensors, providing a practical solution for biomechanical analysis outside the laboratory.
+
+
+## Datasets
+- **Dataset A** can be accessed from the [Google Drive](https://drive.google.com/drive/folders/16UA4C2zR-4kOQIyLNUUEiWohwOfMg6N8?usp=sharing)
+- **Dataset B** can be accessed from the [Google Drive](https://drive.google.com/file/d/1KeJ28eHjcqvFv5FeLutdStfs9GGYq-I_/view?usp=sharing)
+
+## Citations
+
+``` bibtex
+
+@article{hossain2023estimation,
+  title={Estimation of lower extremity joint moments and 3d ground reaction forces using imu sensors in multiple walking conditions: A deep learning approach},
+  author={Hossain, Md Sanzid Bin and Guo, Zhishan and Choi, Hwan},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={27},
+  number={6},
+  pages={2829--2840},
+  year={2023},
+  publisher={IEEE}
+}
