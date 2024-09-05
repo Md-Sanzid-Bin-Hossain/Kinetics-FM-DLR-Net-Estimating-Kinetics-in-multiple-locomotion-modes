@@ -2,6 +2,20 @@
 
 This repository contains the code for **Kinetics-FM-DLR-Ensemble-Net**, a novel deep learning model designed to estimate human joint moments and ground reaction forces (GRFs) using data from three IMU sensors placed on the thigh, shank, and foot. Traditionally, measuring human kinetics has been limited to lab environments due to the reliance on motion capture systems and force plates, making it challenging to gather kinetic data in real-world walking scenarios. **Kinetics-FM-DLR-Ensemble-Net** overcomes these limitations by employing IMU sensors and machine learning techniques to estimate hip, knee, and ankle joint moments along with 3-dimensional GRFs across several representative walking conditions, including treadmill, level-ground, stair, and ramp walking.
 
+
+<p align="center">
+  <img src="Figures/Kinetics-FM-DLR-Net.png" alt="Model Architecture" width="700"/>
+  <br>
+  <em>Figure 1: Overview of the Kinetics-FM-DLR-Net architecture</em>
+</p>
+
+<p align="center">
+  <img src="Figures/Kinetics-FM-Net.png" alt="Kinetics FM-Net" width="500"/>
+  <br>
+  <em>Figure 2: Overview of the Kinetics-FM-Net architecture</em>
+</p>
+
+
 ### Key Features
 - **Multimodal IMU Input**: Uses data from IMU sensors placed on the thigh, shank, and foot for robust predictions.
 - **Versatility Across Walking Conditions**: Accurately estimates joint moments and GRFs in a variety of walking conditions found in daily life.
