@@ -4,7 +4,7 @@ This repository contains the code for **Kinetics-FM-DLR-Ensemble-Net**, a novel 
 
 
 <p align="center">
-  <img src="Figures/Kinetics-FM-DLR-Net.png" alt="Model Architecture" width="700"/>
+  <img src="Figures/kinetics-FM-DLR-Net.png" alt="Model Architecture" width="700"/>
   <br>
   <em>Figure 1: Overview of the Kinetics-FM-DLR-Net architecture</em>
 </p>
