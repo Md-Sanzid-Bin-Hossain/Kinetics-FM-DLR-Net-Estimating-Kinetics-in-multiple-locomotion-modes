@@ -23,7 +23,6 @@ This repository contains the code for **Kinetics-FM-DLR-Ensemble-Net**, a novel 
 
 This is the first deep-learning model to predict both joint moments and GRFs in multiple walking conditions using IMU sensors, providing a practical solution for biomechanical analysis outside the laboratory.
 
-
 ## Datasets
 - **Dataset A** can be accessed from the [Google Drive](https://drive.google.com/drive/folders/16UA4C2zR-4kOQIyLNUUEiWohwOfMg6N8?usp=sharing)
 - **Dataset B** can be accessed from the [Google Drive](https://drive.google.com/file/d/1KeJ28eHjcqvFv5FeLutdStfs9GGYq-I_/view?usp=sharing)
